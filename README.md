@@ -33,4 +33,4 @@ you can access each part via its branches
 Due to the use of fakestoreapi, i had to make some decisions  
  - if you want to check the site/app as an admin with enhanced permissions (add,edit,remove products) you can login as user "johnd" with a password of "m38rmF$"
  - if you want to check the site as a normal visitor (with no privileges) you can login as any user that's in the database such as username: "david_r" with a password of "3478*#54"
- - 
+   
