@@ -5,8 +5,8 @@ import { useState } from "react";
 
 export default function LoginPage() {
   const router = useRouter();
-  const [username, setUsername] = useState("");
-  const [password, setPassword] = useState("");
+  const [username, setUsername] = useState("johnd");
+  const [password, setPassword] = useState("m38rmF$");
   const [error, setError] = useState("");
 
   const handleLogin = async (e) => {
